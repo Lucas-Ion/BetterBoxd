@@ -14,9 +14,8 @@ BetterBoxd is a personal project that offers a fresh take on movie discovery and
 ## Key Features 🌟
 
 - **Movie Discovery**: Discover movies through a curated exploration experience tailored to user preferences.
-- **Tracking and Management**: Easily manage lists of watched movies, favorites, and watchlists.
+- **Tracking and Management**: Easily manage lists of watched movies
 - **Social Interaction**: Share movie experiences and recommendations within the community.
-- **Analytics**: Dive into viewing trends and statistics based on user activity and preferences.
 
 ## Video Demo 📹
 
